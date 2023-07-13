@@ -1,0 +1,225 @@
+2019-09-02 17:55:42,741 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-09-02 17:56:59,540 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bizzan.bitrade:core:1.0 @ C:\Users\admin\Desktop\brinana\trade\JAVA\01_bizzan_framework\core\pom.xml.
+2019-09-02 17:57:05,397 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bizzan.bitrade:admin:1.0 @ C:\Users\admin\Desktop\brinana\trade\JAVA\01_bizzan_framework\admin\pom.xml.
+2019-09-02 17:57:06,558 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/exchange-core: com.bizzan.bitrade:exchange-core:1.0 with classifier  to /exchange-core/target/classes
+2019-09-02 17:57:06,589 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.bizzan.bitrade:core:1.0 with classifier  to /core/target/classes
+2019-09-02 17:57:07,754 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bizzan.bitrade:chat:1.0 @ C:\Users\admin\Desktop\brinana\trade\JAVA\01_bizzan_framework\chat\pom.xml.
+2019-09-02 17:57:08,365 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/exchange-core: com.bizzan.bitrade:exchange-core:1.0 with classifier  to /exchange-core/target/classes
+2019-09-02 17:57:08,479 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.bizzan.bitrade:core:1.0 with classifier  to /core/target/classes
+2019-09-02 17:57:10,008 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bizzan.bitrade:wallet:1.0 @ C:\Users\admin\Desktop\brinana\trade\JAVA\01_bizzan_framework\wallet\pom.xml.
+2019-09-02 17:57:10,719 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.bizzan.bitrade:core:1.0 with classifier  to /core/target/classes
+2019-09-02 17:57:11,908 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bizzan.bitrade:exchange:1.0 @ C:\Users\admin\Desktop\brinana\trade\JAVA\01_bizzan_framework\exchange\pom.xml.
+2019-09-02 17:57:12,368 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/exchange-core: com.bizzan.bitrade:exchange-core:1.0 with classifier  to /exchange-core/target/classes
+2019-09-02 17:57:12,529 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.bizzan.bitrade:core:1.0 with classifier  to /core/target/classes
+2019-09-02 17:57:13,786 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bizzan.bitrade:market:1.0 @ C:\Users\admin\Desktop\brinana\trade\JAVA\01_bizzan_framework\market\pom.xml.
+2019-09-02 17:57:14,531 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/exchange-core: com.bizzan.bitrade:exchange-core:1.0 with classifier  to /exchange-core/target/classes
+2019-09-02 17:57:14,618 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.bizzan.bitrade:core:1.0 with classifier  to /core/target/classes
+2019-09-02 17:57:15,775 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bizzan.bitrade:exchange-core:1.0 @ C:\Users\admin\Desktop\brinana\trade\JAVA\01_bizzan_framework\exchange-core\pom.xml.
+2019-09-02 17:57:16,035 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.bizzan.bitrade:core:1.0 with classifier  to /core/target/classes
+2019-09-02 17:57:17,748 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bizzan.bitrade:exchange-api:1.0 @ C:\Users\admin\Desktop\brinana\trade\JAVA\01_bizzan_framework\exchange-api\pom.xml.
+2019-09-02 17:57:18,097 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.bizzan.bitrade:core:1.0 with classifier  to /core/target/classes
+2019-09-02 17:57:18,870 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/exchange-core: com.bizzan.bitrade:exchange-core:1.0 with classifier  to /exchange-core/target/classes
+2019-09-02 17:57:19,503 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bizzan.bitrade:otc-api:1.0 @ C:\Users\admin\Desktop\brinana\trade\JAVA\01_bizzan_framework\otc-api\pom.xml.
+2019-09-02 17:57:20,160 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.bizzan.bitrade:core:1.0 with classifier  to /core/target/classes
+2019-09-02 17:57:20,488 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/otc-core: com.bizzan.bitrade:otc-core:1.0 with classifier  to /otc-core/target/classes
+2019-09-02 17:57:20,489 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/exchange-core: com.bizzan.bitrade:exchange-core:1.0 with classifier  to /exchange-core/target/classes
+2019-09-02 17:57:21,019 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bizzan.bitrade:otc-core:1.0 @ C:\Users\admin\Desktop\brinana\trade\JAVA\01_bizzan_framework\otc-core\pom.xml.
+2019-09-02 17:57:21,477 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.bizzan.bitrade:core:1.0 with classifier  to /core/target/classes
+2019-09-02 17:57:22,497 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bizzan.bitrade:ucenter-api:1.0 @ C:\Users\admin\Desktop\brinana\trade\JAVA\01_bizzan_framework\ucenter-api\pom.xml.
+2019-09-02 17:57:22,977 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/otc-core: com.bizzan.bitrade:otc-core:1.0 with classifier  to /otc-core/target/classes
+2019-09-02 17:57:23,019 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.bizzan.bitrade:core:1.0 with classifier  to /core/target/classes
+2019-09-02 17:57:23,325 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/exchange-core: com.bizzan.bitrade:exchange-core:1.0 with classifier  to /exchange-core/target/classes
+2019-09-02 17:57:23,791 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bizzan.bitrade:cloud:1.0 @ C:\Users\admin\Desktop\brinana\trade\JAVA\01_bizzan_framework\cloud\pom.xml.
+2019-09-02 17:57:24,698 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bizzan.bitrade:bitrade-job:1.0 @ C:\Users\admin\Desktop\brinana\trade\JAVA\01_bizzan_framework\bitrade-job\pom.xml.
+2019-09-02 17:57:24,918 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.bizzan.bitrade:core:1.0 with classifier  to /core/target/classes
+2019-09-02 17:57:25,322 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/exchange-core: com.bizzan.bitrade:exchange-core:1.0 with classifier  to /exchange-core/target/classes
+2019-09-02 17:57:55,706 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /core/src/main/java
+2019-09-02 17:57:55,723 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /core/target/generated-sources/java
+2019-09-02 17:57:55,724 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /core/src/main/resources
+2019-09-02 17:57:55,724 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /core/src/main/resources
+2019-09-02 17:57:55,726 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /core/src/test/java
+2019-09-02 17:57:55,727 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /core/src/test/resources
+2019-09-02 17:57:58,074 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.bizzan.bitrade:core:1.0 with classifier  to /core/target/classes
+2019-09-02 17:57:58,477 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exchange-core/src/main/java
+2019-09-02 17:57:58,491 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exchange-core/target/generated-sources/java
+2019-09-02 17:57:58,492 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exchange-core/src/test/java
+2019-09-02 17:58:00,206 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /market/src/main/java
+2019-09-02 17:58:00,207 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /market/src/main/resources/dev
+2019-09-02 17:58:00,208 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /market/src/test/java
+2019-09-02 17:58:02,007 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exchange-api/src/main/java
+2019-09-02 17:58:02,007 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /exchange-api/src/main/resources/dev
+2019-09-02 17:58:02,008 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /exchange-api/src/main/resources/test
+2019-09-02 17:58:02,008 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /exchange-api/src/main/resources/prod
+2019-09-02 17:58:02,010 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exchange-api/src/test/java
+2019-09-02 17:58:03,589 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bitrade-job/src/main/java
+2019-09-02 17:58:03,590 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bitrade-job/src/main/resources/dev
+2019-09-02 17:58:03,590 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bitrade-job/src/main/resources/test
+2019-09-02 17:58:03,591 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bitrade-job/src/main/resources/prod
+2019-09-02 17:58:03,591 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bitrade-job/src/test/java
+2019-09-02 17:58:05,272 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exchange/src/main/java
+2019-09-02 17:58:05,272 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /exchange/src/main/resources/dev
+2019-09-02 17:58:05,273 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /exchange/src/main/resources/test
+2019-09-02 17:58:05,273 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /exchange/src/main/resources/prod
+2019-09-02 17:58:05,274 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exchange/src/test/java
+2019-09-02 17:58:06,806 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /admin/src/main/java
+2019-09-02 17:58:06,806 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /admin/src/main/resources/dev
+2019-09-02 17:58:06,807 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /admin/src/main/resources/test
+2019-09-02 17:58:06,808 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /admin/src/main/resources/prod
+2019-09-02 17:58:06,809 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /admin/src/test/java
+2019-09-02 17:58:08,568 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chat/src/main/java
+2019-09-02 17:58:08,569 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chat/src/main/resources/dev
+2019-09-02 17:58:08,569 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chat/src/main/resources/test
+2019-09-02 17:58:08,569 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chat/src/main/resources/prod
+2019-09-02 17:58:08,570 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chat/src/test/java
+2019-09-02 17:58:10,203 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /wallet/src/main/java
+2019-09-02 17:58:10,203 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /wallet/src/main/resources/dev
+2019-09-02 17:58:10,203 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /wallet/src/main/resources/test
+2019-09-02 17:58:10,204 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /wallet/src/main/resources/prod
+2019-09-02 17:58:10,204 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /wallet/src/test/java
+2019-09-02 17:58:11,756 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /otc-core/src/main/java
+2019-09-02 17:58:11,756 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /otc-core/src/test/java
+2019-09-02 17:58:13,649 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /otc-api/src/main/java
+2019-09-02 17:58:13,649 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /otc-api/src/main/resources/dev
+2019-09-02 17:58:13,649 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /otc-api/src/main/resources/test
+2019-09-02 17:58:13,650 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /otc-api/src/main/resources/prod
+2019-09-02 17:58:13,650 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /otc-api/src/test/java
+2019-09-02 17:58:15,496 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ucenter-api/src/main/java
+2019-09-02 17:58:15,497 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ucenter-api/src/main/resources/dev
+2019-09-02 17:58:15,498 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ucenter-api/src/main/resources/test
+2019-09-02 17:58:15,498 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ucenter-api/src/main/resources/prod
+2019-09-02 17:58:15,499 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ucenter-api/src/test/java
+2019-09-02 17:58:27,390 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud/src/main/java
+2019-09-02 17:58:27,391 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud/src/main/resources
+2019-09-02 17:58:27,391 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud/src/main/resources
+2019-09-02 17:58:27,392 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud/src/test/java
+2019-09-02 17:58:29,383 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 13 project(s) in 105 sec
+2019-09-02 17:58:49,003 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 17:58:49,013 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-02 17:58:49,053 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-09-02 17:58:49,066 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 17:58:49,066 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\brinana\trade\JAVA\01_bizzan_framework\cloud\src\test\resources
+2019-09-02 17:59:11,013 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 17:59:11,015 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-02 17:59:11,016 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-02 17:59:11,025 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 17:59:11,026 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-09-02 17:59:15,349 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.bizzan.bitrade:core:1.0 with classifier  to /core/target/classes
+2019-09-02 17:59:20,178 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 17:59:20,178 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\brinana\trade\JAVA\01_bizzan_framework\exchange-core\src\main\resources
+2019-09-02 17:59:20,179 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\brinana\trade\JAVA\01_bizzan_framework\exchange-core\src\main\resources
+2019-09-02 17:59:20,181 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 17:59:20,182 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\brinana\trade\JAVA\01_bizzan_framework\exchange-core\src\test\resources
+2019-09-02 17:59:24,734 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.bizzan.bitrade:core:1.0 with classifier  to /core/target/classes
+2019-09-02 17:59:25,535 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/exchange-core: com.bizzan.bitrade:exchange-core:1.0 with classifier  to /exchange-core/target/classes
+2019-09-02 17:59:25,568 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 17:59:25,569 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-09-02 17:59:25,590 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-09-02 17:59:25,593 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-09-02 17:59:25,600 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 17:59:25,601 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\brinana\trade\JAVA\01_bizzan_framework\exchange-api\src\test\resources
+2019-09-02 17:59:30,774 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/exchange-core: com.bizzan.bitrade:exchange-core:1.0 with classifier  to /exchange-core/target/classes
+2019-09-02 17:59:30,904 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.bizzan.bitrade:core:1.0 with classifier  to /core/target/classes
+2019-09-02 17:59:31,484 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 17:59:31,486 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-09-02 17:59:31,515 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-09-02 17:59:31,573 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-09-02 17:59:31,577 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 17:59:31,578 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\brinana\trade\JAVA\01_bizzan_framework\exchange\src\test\resources
+2019-09-02 17:59:38,148 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/exchange-core: com.bizzan.bitrade:exchange-core:1.0 with classifier  to /exchange-core/target/classes
+2019-09-02 17:59:38,208 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.bizzan.bitrade:core:1.0 with classifier  to /core/target/classes
+2019-09-02 17:59:38,691 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 17:59:38,693 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-09-02 17:59:38,701 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-09-02 17:59:38,702 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-09-02 17:59:38,706 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 17:59:38,707 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\brinana\trade\JAVA\01_bizzan_framework\chat\src\test\resources
+2019-09-02 17:59:41,638 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.bizzan.bitrade:core:1.0 with classifier  to /core/target/classes
+2019-09-02 17:59:41,891 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/exchange-core: com.bizzan.bitrade:exchange-core:1.0 with classifier  to /exchange-core/target/classes
+2019-09-02 17:59:42,302 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 17:59:42,302 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-09-02 17:59:42,318 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-09-02 17:59:42,320 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-09-02 17:59:42,324 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 17:59:42,324 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\brinana\trade\JAVA\01_bizzan_framework\bitrade-job\src\test\resources
+2019-09-02 17:59:50,105 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/exchange-core: com.bizzan.bitrade:exchange-core:1.0 with classifier  to /exchange-core/target/classes
+2019-09-02 17:59:50,119 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.bizzan.bitrade:core:1.0 with classifier  to /core/target/classes
+2019-09-02 17:59:50,525 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 17:59:50,526 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2019-09-02 17:59:50,550 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2019-09-02 17:59:50,553 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2019-09-02 17:59:50,559 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 17:59:50,560 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\brinana\trade\JAVA\01_bizzan_framework\admin\src\test\resources
+2019-09-02 17:59:55,334 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/exchange-core: com.bizzan.bitrade:exchange-core:1.0 with classifier  to /exchange-core/target/classes
+2019-09-02 17:59:55,395 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.bizzan.bitrade:core:1.0 with classifier  to /core/target/classes
+2019-09-02 17:59:55,662 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 17:59:55,663 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-09-02 17:59:55,684 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 17:59:55,684 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\brinana\trade\JAVA\01_bizzan_framework\market\src\test\resources
+2019-09-02 17:59:58,651 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.bizzan.bitrade:core:1.0 with classifier  to /core/target/classes
+2019-09-02 17:59:59,122 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 17:59:59,123 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\brinana\trade\JAVA\01_bizzan_framework\otc-core\src\main\resources
+2019-09-02 17:59:59,123 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\brinana\trade\JAVA\01_bizzan_framework\otc-core\src\main\resources
+2019-09-02 17:59:59,126 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 17:59:59,126 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\brinana\trade\JAVA\01_bizzan_framework\otc-core\src\test\resources
+2019-09-02 18:00:03,179 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.bizzan.bitrade:core:1.0 with classifier  to /core/target/classes
+2019-09-02 18:00:03,473 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/otc-core: com.bizzan.bitrade:otc-core:1.0 with classifier  to /otc-core/target/classes
+2019-09-02 18:00:03,473 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/exchange-core: com.bizzan.bitrade:exchange-core:1.0 with classifier  to /exchange-core/target/classes
+2019-09-02 18:00:03,481 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 18:00:03,482 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2019-09-02 18:00:03,502 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2019-09-02 18:00:03,504 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2019-09-02 18:00:03,509 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 18:00:03,510 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\brinana\trade\JAVA\01_bizzan_framework\otc-api\src\test\resources
+2019-09-02 18:00:08,638 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/otc-core: com.bizzan.bitrade:otc-core:1.0 with classifier  to /otc-core/target/classes
+2019-09-02 18:00:08,671 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.bizzan.bitrade:core:1.0 with classifier  to /core/target/classes
+2019-09-02 18:00:08,978 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/exchange-core: com.bizzan.bitrade:exchange-core:1.0 with classifier  to /exchange-core/target/classes
+2019-09-02 18:00:08,984 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 18:00:08,987 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2019-09-02 18:00:09,035 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2019-09-02 18:00:09,040 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2019-09-02 18:00:09,046 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 18:00:09,046 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\brinana\trade\JAVA\01_bizzan_framework\ucenter-api\src\test\resources
+2019-09-02 18:00:12,340 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.bizzan.bitrade:core:1.0 with classifier  to /core/target/classes
+2019-09-02 18:00:12,685 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 18:00:12,686 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-09-02 18:00:12,699 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-09-02 18:00:12,701 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-09-02 18:00:12,705 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 18:00:12,706 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\brinana\trade\JAVA\01_bizzan_framework\wallet\src\test\resources
+2019-09-02 18:03:48,969 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 18:03:48,976 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-02 18:03:48,977 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-02 18:03:48,980 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 18:03:48,981 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-02 18:03:52,868 [Worker-12: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.bizzan.bitrade:core:1.0 with classifier  to /core/target/classes
+2019-09-02 18:03:53,665 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 18:03:53,666 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\brinana\trade\JAVA\01_bizzan_framework\exchange-core\src\main\resources
+2019-09-02 18:03:53,666 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\brinana\trade\JAVA\01_bizzan_framework\exchange-core\src\main\resources
+2019-09-02 18:03:53,669 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 18:03:53,669 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\brinana\trade\JAVA\01_bizzan_framework\exchange-core\src\test\resources
+2019-09-02 18:04:00,403 [Worker-12: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/exchange-core: com.bizzan.bitrade:exchange-core:1.0 with classifier  to /exchange-core/target/classes
+2019-09-02 18:04:00,420 [Worker-12: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.bizzan.bitrade:core:1.0 with classifier  to /core/target/classes
+2019-09-02 18:04:00,846 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 18:04:00,848 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2019-09-02 18:04:00,852 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2019-09-02 18:04:00,856 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2019-09-02 18:04:00,862 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 18:04:00,862 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\brinana\trade\JAVA\01_bizzan_framework\admin\src\test\resources
+2019-09-02 18:04:05,027 [Worker-12: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.bizzan.bitrade:core:1.0 with classifier  to /core/target/classes
+2019-09-02 18:04:05,365 [Worker-12: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/otc-core: com.bizzan.bitrade:otc-core:1.0 with classifier  to /otc-core/target/classes
+2019-09-02 18:04:05,365 [Worker-12: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/exchange-core: com.bizzan.bitrade:exchange-core:1.0 with classifier  to /exchange-core/target/classes
+2019-09-02 18:04:05,377 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 18:04:05,378 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2019-09-02 18:04:05,383 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2019-09-02 18:04:05,386 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2019-09-02 18:04:05,390 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 18:04:05,390 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\brinana\trade\JAVA\01_bizzan_framework\otc-api\src\test\resources
+2019-09-02 18:04:09,180 [Worker-12: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/otc-core: com.bizzan.bitrade:otc-core:1.0 with classifier  to /otc-core/target/classes
+2019-09-02 18:04:09,217 [Worker-12: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.bizzan.bitrade:core:1.0 with classifier  to /core/target/classes
+2019-09-02 18:04:09,550 [Worker-12: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/exchange-core: com.bizzan.bitrade:exchange-core:1.0 with classifier  to /exchange-core/target/classes
+2019-09-02 18:04:09,558 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 18:04:09,561 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2019-09-02 18:04:09,568 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2019-09-02 18:04:09,573 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2019-09-02 18:04:09,578 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-02 18:04:09,578 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\brinana\trade\JAVA\01_bizzan_framework\ucenter-api\src\test\resources

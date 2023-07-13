@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1567418125443_0" label="Java Main Sources" name="main">
+<item elementID="=admin/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=admin/src\/main\/resources\/dev" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=admin/src\/main\/resources\/test" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=admin/src\/main\/resources\/prod" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=core/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=core/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=core/target\/generated-sources\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=bitrade-job/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=bitrade-job/src\/main\/resources\/dev" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=bitrade-job/src\/main\/resources\/test" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=bitrade-job/src\/main\/resources\/prod" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=chat/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=chat/src\/main\/resources\/dev" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=chat/src\/main\/resources\/test" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=chat/src\/main\/resources\/prod" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=cloud/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=cloud/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=exchange/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=exchange/src\/main\/resources\/dev" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=exchange/src\/main\/resources\/test" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=exchange/src\/main\/resources\/prod" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=exchange-api/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=exchange-api/src\/main\/resources\/dev" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=exchange-api/src\/main\/resources\/test" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=exchange-api/src\/main\/resources\/prod" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=exchange-core/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=exchange-core/target\/generated-sources\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=market/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=market/src\/main\/resources\/dev" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=otc-api/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=otc-api/src\/main\/resources\/dev" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=otc-api/src\/main\/resources\/test" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=otc-api/src\/main\/resources\/prod" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=otc-core/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=ucenter-api/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=ucenter-api/src\/main\/resources\/dev" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=ucenter-api/src\/main\/resources\/test" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=ucenter-api/src\/main\/resources\/prod" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=wallet/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=wallet/src\/main\/resources\/dev" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=wallet/src\/main\/resources\/test" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=wallet/src\/main\/resources\/prod" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1567418125530_1" label="Java Test Sources" name="test">
+<item elementID="=admin/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=core/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=core/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=chat/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=exchange/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=exchange-core/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=market/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=otc-api/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=ucenter-api/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1567418204110_3" label="bitrade-parent" name="bitrade-parent">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/admin" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/chat" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/wallet" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/exchange" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/market" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/exchange-core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/exchange-api" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/otc-api" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/otc-core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ucenter-api" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/cloud" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/bitrade-job" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1567418145502_2" label="Window Working Set" name="Aggregate for window 1567418145502"/>
+</workingSetManager>
